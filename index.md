@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+##  Market Clear-A software for Distributor & Retailer                   
 
-You can use the [editor on GitHub](https://github.com/meghnadsaha/Distributor-Retailer-Application-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The objective of this project is to examine Retailer and provides the report to the Distributor.
+The project involves the development of Business making System for Distributor and Retailer (Market Clear) System. It is an application development project starting with requirement gathering, application design and development, testing, implementation and also post implementation support. The entire system is developed using iterative model. The project has been undertaken to satisfy the following objectives:
+ The project has been undertaken to satisfy the following objectives:
+•	Notify Retailer electronically of coming due or overdue Class Surveys and Outstanding Recommendations, Statutory Surveys and Additional Findings, and overdue items.
+•	Conserve Classification and Documentation Center time and labour resources. 
+•	Simplify Suspension or Overdue notification review process 
+
 
 ### Markdown
 
