@@ -1,4 +1,4 @@
-##  Market Clear-A software for Distributor & Retailer                   
+##  Market Clear- Credit Rating Platform for Traders               
 
 
 The objective of this project is to examine Retailer and provides the report to the Distributor.
